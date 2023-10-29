@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Baymax
+//  baymax
 //
 //  Created by Akash Kumar on 10/28/23.
 //

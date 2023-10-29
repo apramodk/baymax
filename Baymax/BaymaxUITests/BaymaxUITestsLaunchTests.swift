@@ -1,13 +1,13 @@
 //
-//  BaymaxUITestsLaunchTests.swift
-//  BaymaxUITests
+//  baymaxUITestsLaunchTests.swift
+//  baymaxUITests
 //
 //  Created by Akash Kumar on 10/28/23.
 //
 
 import XCTest
 
-final class BaymaxUITestsLaunchTests: XCTestCase {
+final class baymaxUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
