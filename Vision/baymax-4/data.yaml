@@ -1,0 +1,12 @@
+names:
+- McLovin
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: baymax
+  url: https://universe.roboflow.com/vandyhacks/baymax/dataset/4
+  version: 4
+  workspace: vandyhacks
+test: ../test/images
+train: baymax-4/train/images
+val: baymax-4/valid/images
